@@ -1,0 +1,6 @@
+.env
+vendor/
+uploads/
+pending_emails/
+email_logs/
+*.log
